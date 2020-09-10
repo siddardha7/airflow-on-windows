@@ -1,7 +1,7 @@
 
 # Usage
 
-## sequential executoe with SQL lite
+## sequential executor with SQL lite
 
     By default, docker-airflow runs Airflow with **SequentialExecutor** :
 
